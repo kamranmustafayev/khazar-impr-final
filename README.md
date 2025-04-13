@@ -61,12 +61,3 @@ python cnn_pipeline.py
 ## Notes
 - Make sure you have an internet connection to download the CIFAR-10 dataset automatically.
 - Modify hyperparameters inside `cnn_pipeline.py` as needed for tuning experiments.
-
-## License
-This project is for academic purposes only.
-
----
-**Author**: [Your Name]  
-**Email**: [Your Email]  
-**Course**: Deep Learning / Computer Vision Project
-
